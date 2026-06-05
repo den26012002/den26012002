@@ -16,6 +16,7 @@
   - [Кодоанализатор ↩](https://github.com/den26012002/Technologies-of-Programming-4th-semester-Analyzer)
   - [Применение оптимизаций ↩](https://github.com/den26012002/Technologies-of-Programming-4th-semester-Optimizations)
 - [Университет ИТМО 6-й семестр, Анализ и проектирование на UML ↩](https://github.com/den26012002/UML-6th-semester)
+- [Университет ИТМО 7-й семестр, Многопоточное программирование ↩](https://github.com/den26012002/Multiprocessor-programming-7th-semester)
 <!--
 **den26012002/den26012002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
